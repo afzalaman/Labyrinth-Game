@@ -1,5 +1,3 @@
-package assignment3;
-
 public class LeaderBoard implements Comparable<LeaderBoard>{
     private final String name;
     public final int level;
